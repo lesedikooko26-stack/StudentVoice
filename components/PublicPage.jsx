@@ -40,10 +40,6 @@ function PublicPage({ messages, onSubmit }) {
           <h1 className="hero__title">
             Speak up,<br /><span>stay anonymous.</span>
           </h1>
-          <p className="hero__subtitle">
-            Share feedback, ideas, or concerns about your accommodation.
-            Every message is reviewed before it goes live.
-          </p>
         </div>
 
         {/* ── Compose ── */}
